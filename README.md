@@ -4,10 +4,11 @@ Ejecucion del programa:
 
 Con Python 3:
 
-python3 clientHTTP_base.py
+python3 clientHTTP_base.py GET / 1 gzip close
 
 o 
-python clientHTTP_base.py
+python clientHTTP_base.py GET / 1 gzip close
+
 
 Con Docker:
 Ejecute los siguientes comandos:
