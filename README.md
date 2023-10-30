@@ -5,14 +5,18 @@ Ejecucion del programa:
 
 Preguntas:
 1. ¿Cuál es la función de los métodos de HTTP HEAD, GET, POST, PUT y DELETE?
-    GET:  Su funcion es obtener información del servidor. 
+2. 
+    GET:  Su funcion es obtener información del servidor.
+   
     POST: Manda informacion al servidor para ser agredado.
+   
     PUT: Usualmente usado para editar algun recurso del servidor
+   
     DELETE: Eliminar un recurso del servidor.
 
-3. ¿Investigue y enliste junto con su significado las categorías de códigos de estado que usa HTTP?
+4. ¿Investigue y enliste junto con su significado las categorías de códigos de estado que usa HTTP?
 
-4. ¿Para qué se usan los campos encoding y connection?
+5. ¿Para qué se usan los campos encoding y connection?
 
 
 Referencias:
