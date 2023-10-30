@@ -32,7 +32,9 @@ Preguntas:
    5XX Error del servidor
 
 3. ¿Para qué se usan los campos encoding y connection?
+    Encoding: Es la forma como se quiere codificar y comprimir la informacion para que la informacino sea mandada.
 
+    Connection: Para indicar si queremos cerrar la conexion despues de cada peticion y abrir de nuevo por cada uno, o si queremos mantener la conexion abierta por mas tiempo aun despues de terminar cada       peticion.
 
 Referencias:
 
