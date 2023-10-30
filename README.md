@@ -1,9 +1,28 @@
 # Practica04_http_cliente_redes
 
 Ejecucion del programa:
+
 Con Python 3:
 
+python3 clientHTTP_base.py
+
+o 
+python clientHTTP_base.py
+
 Con Docker:
+Ejecute los siguientes comandos:
+
+sudo docker build -t redes:p4
+
+sudo docker image ls
+
+sudo docker run --interactive --tty redes:p4 /bin/sh
+
+python3 /opt/clientHTTP_base.py www.fciencias.unam.mx GET / 1 gzip close
+
+o 
+
+python /opt/clientHTTP_base.py www.fciencias.unam.mx GET / 1 gzip close
 
 Preguntas:
 1. ¿Cuál es la función de los métodos de HTTP HEAD, GET, POST, PUT y DELETE?
