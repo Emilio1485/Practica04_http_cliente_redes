@@ -23,10 +23,11 @@ Preguntas:
 
    
 
-4. ¿Para qué se usan los campos encoding y connection?
+3. ¿Para qué se usan los campos encoding y connection?
 
 
 Referencias:
 
   9cv9. (2019). What are GET, POST, PUT, PATCH, DELETE? A walkthrough with JavaScript’s Fetch API. Medium. Disponible de: https://medium.com/@9cv9official/what-are-get-post-put-patch-delete-a-walkthrough-with-javascripts-fetch-api-17be31755d28
   
+ Mendoza Castro, R. (2023). Codigos HTTP: Lista Completa + Explicaciones. Semrush Blog. Disponible en: https://es.semrush.com/blog/codigos-de-estado-http/
