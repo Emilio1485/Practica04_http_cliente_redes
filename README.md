@@ -1,9 +1,9 @@
 # Practica04_http_cliente_redes
+
+Ejecucion del programa:
 Con Python 3:
 
 Con Docker:
-Ejecucion del programa:
-
 
 Preguntas:
 1. ¿Cuál es la función de los métodos de HTTP HEAD, GET, POST, PUT y DELETE?
