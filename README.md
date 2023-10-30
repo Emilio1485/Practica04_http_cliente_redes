@@ -4,6 +4,8 @@ Integrantes:
 
 Marco Antonio Garcia Arce   421014615
 
+Emilio Francisco Sánchez Martínez    115004199
+
 Ejecucion del programa:
 
 CON PYTHON 3:
