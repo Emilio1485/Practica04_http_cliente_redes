@@ -1,5 +1,7 @@
 # Practica04_http_cliente_redes
+Con Python 3:
 
+Con Docker:
 Ejecucion del programa:
 
 
