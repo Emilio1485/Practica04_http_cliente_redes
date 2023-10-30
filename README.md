@@ -4,9 +4,11 @@ Ejecucion del programa:
 
 CON PYTHON 3:
 
+Linux:
+
 python3 clientHTTP_base.py GET / 1 gzip close
 
-o 
+Windows:
 
 python clientHTTP_base.py GET / 1 gzip close
 
@@ -20,9 +22,11 @@ sudo docker image ls
 
 sudo docker run --interactive --tty redes:p4 /bin/sh
 
+Linux:
+
 python3 /opt/clientHTTP_base.py www.fciencias.unam.mx GET / 1 gzip close
 
-o 
+Windows:
 
 python /opt/clientHTTP_base.py www.fciencias.unam.mx GET / 1 gzip close
 
