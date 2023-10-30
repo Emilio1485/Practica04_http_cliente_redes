@@ -21,7 +21,15 @@ Preguntas:
 
 2. ¿Investigue y enliste junto con su significado las categorías de códigos de estado que usa HTTP?
 
-   
+   1XX Informativo
+
+   2XX Exito
+
+   3XX Redireccion
+
+   4XX Error del Cliente
+
+   5XX Error del servidor
 
 3. ¿Para qué se usan los campos encoding y connection?
 
