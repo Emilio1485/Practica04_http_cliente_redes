@@ -2,7 +2,7 @@
 
 Ejecucion del programa:
 
-Con Python 3:
+CON PYTHON 3:
 
 python3 clientHTTP_base.py GET / 1 gzip close
 
@@ -10,7 +10,7 @@ o
 python clientHTTP_base.py GET / 1 gzip close
 
 
-Con Docker:
+CON DOCKER:
 Ejecute los siguientes comandos:
 
 sudo docker build -t redes:p4
