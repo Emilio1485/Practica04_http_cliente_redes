@@ -1,5 +1,9 @@
 # Practica04_http_cliente_redes
 
+Integrantes:
+
+Marco Antonio Garcia Arce   421014615
+
 Ejecucion del programa:
 
 CON PYTHON 3:
